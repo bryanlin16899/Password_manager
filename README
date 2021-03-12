@@ -1,2 +1,5 @@
 # Password_manager
 A password manager, can generate random password, save username and password from each website, search username and password through the website name.
+
+When you first run the program and add new data, it will create a json file to save your username and password,
+if you want to search existing username and password, just enter the website name and click the search button then it will search json file and pop up a box.
